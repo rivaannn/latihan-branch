@@ -1,2 +1,3 @@
 # latihan-branch
-Repository Untuk Pembelajaran Modul Belajar Dasar dengan Github Di Dicoding Academy
+
+<h1>Ini adalah repository untuk latihan membuat branch baru di Github</h1>
